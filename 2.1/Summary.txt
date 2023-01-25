@@ -1,0 +1,8 @@
+The case I will be looking into is a retailer selling your personal information to other for a profit. 
+Even from scanerio alone, you can tell that there are some questionable ethics decision being performed here.
+For this assignment, the boxes on the top in gray are the socio-technical stuff. 
+The rows in beige are the things that people would care about.
+
+We can see that selling personal information does indeed violate privacy. This affects the people using the app, the software that was made to gather the personal information, the data itself, and it could affect future laws and regulation regarding the use of personal data. 
+Security is also another big concern. You want good security practice so that the people aren't affected. The hardware and software both need to be designed with security in mind in order to prevent bad actors from abusing it. 
+And lastly, security directly affects how the data of the user is handled. Finally, we have integrity. We want to be honesty with the people using our data. We much not misinform the user and purposely mislead them. We need to be transparent on what what is going on. We also need to be honest with the data. Selling personal data that the user trusts us with is not being honest.
